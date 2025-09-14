@@ -1,0 +1,30 @@
+* {
+    background-color: lightblue;
+}
+.imperial,
+.metric {
+    margin: 0 auto; 
+    height: 200px;
+    width: 35%;
+    border-radius: 50px; 
+    border: 5px solid black;
+    padding: 50px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.imperial {
+    padding-right: 40px;
+}
+.metric {
+    padding-left: 40px;
+}
+.cards {
+    display: flex;
+}
+.i,
+.m  {
+    font-size: 4.5rem; 
+    text-decoration: none; 
+    color: blue; 
+} 
