@@ -19,14 +19,6 @@
 .metric {
     padding-left: 40px;
 }
-.cards {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem; 
-}
-.cardOne:first-child {
-    grid-column: span 2; 
-}
 .i,
 .m  {
     font-size: 4.5rem; 
