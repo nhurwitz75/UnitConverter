@@ -1,0 +1,10 @@
+.iForm {
+    width: 400px;
+    height: 200px;
+    
+    background-color: lightgray;
+    box-shadow: 0 0 0 6px lightblue, 0 0 10px 6px rgba(0, 0, 0, 0.5);
+}
+.form-container {
+    box-shadow: 0 0 0 6px darkblue, 0 0 10px 6px rgba(0, 0, 0, 0.5); 
+}
