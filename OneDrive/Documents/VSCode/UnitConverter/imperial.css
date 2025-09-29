@@ -1,16 +1,18 @@
 .iForm {
-    width: 400px;
-    height: 200px;
+    width: 550px;
+    height: 300px;
     
     background-color: lightgray;
     box-shadow: 0 0 0 6px lightblue, 0 0 10px 6px rgba(0, 0, 0, 0.5);
     border: 3px solid cyan; 
-}
-.form-container {
-    box-shadow: 0 0 0 6px darkblue, 0 0 10px 6px rgba(0, 0, 0, 0.5); 
-    margin: 0 auto; 
+
+    margin-left: 50%;
+    margin-right: 50%; 
 }
 label, 
 input {
-    display: inline-block;
+    display: inline-block; 
+}
+label {
+    font-size: 20px;
 }
